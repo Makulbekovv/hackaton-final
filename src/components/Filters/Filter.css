@@ -1,0 +1,35 @@
+.input-border {
+  border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .css-187mznn-MuiSlider-root {
+    width: 100px !important;
+  }
+  .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    width: 100px !important;
+  }
+  .css-1qtu9q6-MuiButtonBase-root-MuiButton-root {
+    width: 100px !important;
+    font-size: 13px !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .filters-block {
+    display: block !important;
+  }
+  .css-187mznn-MuiSlider-root {
+    width: 100% !important;
+    margin-top: 10px;
+  }
+  .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    width: 100% !important;
+    /* margin-top: 30px !important; */
+  }
+  .css-1qtu9q6-MuiButtonBase-root-MuiButton-root {
+    width: 100% !important;
+    margin-top: 10px !important;
+  }
+}
+/*# sourceMappingURL=Filter.css.map */

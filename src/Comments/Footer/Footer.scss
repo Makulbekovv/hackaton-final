@@ -1,0 +1,23 @@
+.footer-block {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  background-color: #000;
+}
+
+ul {
+  list-style-type: none;
+  color: #fff;
+}
+
+p {
+  font-weight: 700;
+}
+
+/* @media all and (max-width: 347px){
+    .footer-block{
+
+    }
+} */

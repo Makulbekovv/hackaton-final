@@ -1,0 +1,29 @@
+.footer-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  background-color: #000;
+}
+
+ul {
+  list-style-type: none;
+  color: #fff;
+}
+
+p {
+  font-weight: 700;
+}
+
+/* @media all and (max-width: 347px){
+    .footer-block{
+
+    }
+} */
+/*# sourceMappingURL=Footer.css.map */

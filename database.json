@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "name": "Кроссовки Adidas Marathon  Black Red",
+      "brand": "Adidas",
+      "price": "5390",
+      "description": "Adidas Marathon-Кроссовки, которые смогут вам принести идеально легкую победу на любом марафоне.",
+      "image": "https://yeezycross.ru/image/cache/catalog/product/adidas-marathon-flyknit-men-blackred_2-1000x1340.jpg",
+      "color": "black",
+      "id": 1
+    },
+    {
+      "name": "Кроссовки Nike Free Run White Black",
+      "brand": "Nike",
+      "price": "4990",
+      "description": "Nike Free Run-Настоящая мечта спортсмена, который на профессиональном уровне занимается бегом. ",
+      "image": "https://yeezycross.ru/image/cache/catalog/product/nike-free-run_3-1000x1340.jpg",
+      "color": "black",
+      "id": 2
+    },
+    {
+      "name": "Кроссовки Nike Free Run White Grey",
+      "brand": "Nike",
+      "price": "1000",
+      "description": "Кроссовки Nike Free Run 3.0 тканевые белые Кроссовки Nike Free Run 3.0 тканевые белые vghjrhkjv",
+      "image": "https://megasport.ua/ua/image/products/09_20161_812655_010_1-68e7b68.jpg",
+      "color": "gray",
+      "id": 3
+    },
+    {
+      "name": "Nike Revolution 5 BQ3204 001 R46",
+      "brand": "Nike",
+      "price": "20000",
+      "description": "Мужские чёрные кроссовки Nike Air Max 270 (Найк Аир Макс 270) из натуральной кожи, с силиконовой пяткой",
+      "image": "https://a.allegroimg.com/original/11d2e9/23b30f0949ab919ac39a39e8a625/buty-Nike-Revolution-5-BQ3204-001-r46",
+      "color": "black",
+      "id": 4
+    }
+  ],
+  "comment": []
+}

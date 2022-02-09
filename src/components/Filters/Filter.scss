@@ -1,0 +1,22 @@
+// .color-filter {
+//   color: #fff;
+// }
+
+.input-border {
+  border: none;
+}
+@media screen and (max-width: 768px) {
+  // .filters-block {
+  //   display: block;
+  // }
+  .css-187mznn-MuiSlider-root {
+    width: 100px !important;
+  }
+  .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    width: 100px !important;
+  }
+  .css-1qtu9q6-MuiButtonBase-root-MuiButton-root {
+    width: 100px !important;
+    font-size: 13px !important;
+  }
+}
